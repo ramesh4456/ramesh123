@@ -16,10 +16,10 @@ class Biggest
 		int n1=sc.nextInt();
 		int n2=sc.nextInt();
 		if(n>n1)
-		System.out.println("n");
+		System.out.println(+n);
 		else if(n>n2)
-		System.out.println("n1");
+		System.out.println(+n1);
 		else 
-		System.out.println("n2");
+		System.out.println(+n2);
 	}
 } 
