@@ -3,11 +3,11 @@ public class Vowel
 {
 public static void main(String[] args)
 {
-char ch='a';
+char ch='z';
 if(ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u')
 
 System.out.println("Vowel");
 else
-System.out.println("consonant");
+System.out.println("Consonant");
 }
 }
