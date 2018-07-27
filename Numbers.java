@@ -1,5 +1,5 @@
 import java.util.*;
-impoert java.util.Scanner;
+import java.util.Scanner;
 public class Numbers
 {
 public static void main(String[] args)
@@ -10,5 +10,5 @@ int d=0;
 		{
 		d=d+i;
 		}
-		System.out.println(d);
+		System.out.println(""+d);
 }
